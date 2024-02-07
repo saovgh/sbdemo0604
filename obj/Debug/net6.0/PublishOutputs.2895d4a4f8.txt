@@ -1,0 +1,7 @@
+C:\work\sbdemo\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.exe
+C:\work\sbdemo\sbdemo0604\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\work\sbdemo\sbdemo0604\bin\Debug\net6.0\publish\appsettings.json
+C:\work\sbdemo\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.dll
+C:\work\sbdemo\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.deps.json
+C:\work\sbdemo\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.runtimeconfig.json
+C:\work\sbdemo\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.pdb
